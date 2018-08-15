@@ -1,4 +1,3 @@
-# LR-RPN
 There are four different elements in this repository:
 
 1. **/Different_Feature_Result**: It contains all experimental result for different feature vector
