@@ -1,0 +1,15 @@
+There are six different elements in this repository:
+
+1. **/Different_Feature_Result**: It contains all experimental result for different feature vector
+
+1. **/Keywords**: It contains Keywords information, which is downloaded from UniProt database
+
+2. **/RePPI_Keywords**: It contains all reconstruct reliable bio-network
+
+3. **/RePPI_Result_Keywords**: It contains all experimental result in every reconstruct reliable bio-network
+
+4. **/Tissue_Expression**: The original tissue expression file comes from HPRD database
+
+5. **/Keywords**: The original keywords file comes from UniProt database
+
+6. **/Experiment_of_disease_class_result.xlsx**: It save the detailed experiment result of 12 disease class
